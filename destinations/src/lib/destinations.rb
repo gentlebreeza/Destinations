@@ -19,6 +19,7 @@ class Destinations
         "Villa la Gaeta"                      =>     ["Italy", "the place where '007 Casino Royale' shot the scene", "where Mr White died in the movie"],
         "Villa del Balbianello"               =>     ["Italy", "the place where '007 Casino Royale' shot the scene", "where James Bond took recuperation"],
         "Guo Shang Martyrs' Cemetery"         =>     ["China", "Teng Chong"],
+        "Bonneville Salt Flats"               =>     ["US", "Utah"],
     }
     
     def get_destinations
